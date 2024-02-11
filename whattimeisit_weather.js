@@ -12,7 +12,7 @@
 // here's an example using Open Weather Map
 
 const weatherLocation = "Chester,uk"; // your location
-const weatherAPIKey = "***REMOVED***"; // your Open Weather Map API key 
+const weatherAPIKey = ""; // your Open Weather Map API key 
 
 // delete the function above and rename this one 'itisnow_weather'
 async function itisnow_weather() {
